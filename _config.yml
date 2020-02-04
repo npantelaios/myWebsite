@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Nikolaos Pantelaios
 tagline:          'My personal Website'
 description:      'My personal Website'
-url:              https://dummyUrl19821892198218912
-baseurl:          /
+url:              https://npantelaios.github.io
+baseurl:          ''
 
 author:
   name:           'Nikolaos Pantelaios'
