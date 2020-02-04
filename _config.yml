@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Nikolaos Pantelaios
 tagline:          'My personal Website'
 description:      'My personal Website'
-url:              npantelaios.github.io
+url:              /
 baseurl:          /
 
 author:
