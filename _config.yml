@@ -9,12 +9,12 @@ permalink:        pretty
 title:            Nikolaos Pantelaios
 tagline:          'My personal Website'
 description:      'My personal Website'
-url:              https://npantelaios.github.io
-baseurl:          /https://npantelaios.github.io/
+url:              https://dummyUrl19821892198218912
+baseurl:          /
 
 author:
   name:           'Nikolaos Pantelaios'
-  url:            https://npantelaios.github.io
+  url:            https://dummyUrl19821892198218912
 
 paginate:         5
 
