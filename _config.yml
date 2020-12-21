@@ -4,17 +4,18 @@ highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
+# relative_permalinks: true
 
 # Setup
-title:            Nikolaos Pantelaios
-tagline:          'My personal Website'
-description:      'My personal Website'
-url:              /
-baseurl:          /
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              https://npantelaios.github.io
+baseurl:          ''
 
 author:
   name:           'Nikolaos Pantelaios'
-  url:            ''
+  url:            https://twitter.com/PantelaiosNikos
 
 paginate:         5
 
@@ -22,11 +23,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           ''
-
-  # Image to show in the navigation bar - image must be a square (width = height)
-# Remove this parameter if you don't want an image in the navbar
-# avatar: "/img/theTest1.png"
+  repo:           https://github.com/npantelaios/npantelaios.github.io
 
 plugins:
   - jekyll-paginate
